@@ -1,3 +1,3 @@
 # Spoofer-source
-SimpleSpoofer By texx#2882
+SimpleSpoofer By hurtz#3301
 https://www.youtube.com/watch?v=HKD3jQhtMiE
